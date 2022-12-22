@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: url("https://media.istockphoto.com/id/1255056515/photo/winter-station.jpg?s=612x612&w=0&k=20&c=_zFOf1DwRGwzXvKmlOHaymVLtf4RLcD-GRMyfNHeZBU=");
+    background-repeat: no-repeat;
+    }
+
+    button{
+        border: none;
+        color: white;
+        font-weight: bold;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        width: 200px;
+
+    }
+.btn-1{
+        background-color: green;
+    }
+
+    .btn-2{
+        background:darkred;
+    }
+    
+
+h2{
+    font-size: 50px;
+}
